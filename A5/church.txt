@@ -1,0 +1,3 @@
+let insert = Le.Lq.Lc.Ln.((q c) ((c e) n))
+
+let length = Ll.Lf.(l Lx.f)
